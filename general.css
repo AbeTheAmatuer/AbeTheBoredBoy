@@ -42,3 +42,7 @@ h2{
     font-family: Lucida Console;
     color: beige;
 }
+
+button{
+    top: 20%;
+}
