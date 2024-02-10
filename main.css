@@ -1,12 +1,12 @@
 #heading{
     text-align: center;
-    font-family: Lucida Console;
+    font-family: monospace;
     color: beige;
     font-size: 90px;
 }
 #info{
     text-align: center;
-    font-family: Lucida Console;
+    font-family: monospace;
     color: beige;
 }
 
